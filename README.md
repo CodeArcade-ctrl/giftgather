@@ -1,5 +1,7 @@
 # GiftGather
 
+> **[Open the live app](https://codearcade-ctrl.github.io/giftgather/)** · [English version](https://codearcade-ctrl.github.io/giftgather/en/)
+
 **Bewaar cadeau-ideeën per persoon, gelegenheid en richtbudget.**
 
 ## Voor wie?
